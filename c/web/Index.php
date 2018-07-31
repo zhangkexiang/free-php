@@ -26,8 +26,4 @@ class Index
         include(__DIR__ . "/../../v/welcome.html");
     }
 
-    public static function adf()
-    {
-
-    }
 }

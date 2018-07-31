@@ -5,6 +5,8 @@
 		"v\\":"v",
 		"c\\":"c"
         }
+    },
+    "require": {
+        "catfan/Medoo": "^1.5"
     }
 }
-

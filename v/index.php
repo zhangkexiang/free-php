@@ -13,6 +13,9 @@ switch ($_SERVER['REQUEST_URI']) {
     case "/home/index":
         (new c\api\Index())->auto();
         break;
+    case "/menu":
+        (new c\api\Index())->menu();
+        break;
     default:// 404 的路由
         http_response_code(404);
         return;
