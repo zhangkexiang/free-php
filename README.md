@@ -5,7 +5,7 @@ php frame work
 - 依赖composer进行类加载
 - 直白的mvc框架什么都不封装
 - 鼓励根据需求 调整框架生命周期
-- 遇到问题找php文档 框架没有文档
+- 遇到问题找php文档 框架没有文档 http://www.php.net/manual/zh/
 - 不想开发的可以大量使用熟悉的composer库
 ### 起步
 
